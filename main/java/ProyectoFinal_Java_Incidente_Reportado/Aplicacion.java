@@ -118,7 +118,7 @@ public class Aplicacion {
                     System.out.println("Ingreso una opcion incorrecta. Intente nuevamente");
             }
 
-        } while (opc != 6);
+        } while (opc != 9);
 
     }
 
